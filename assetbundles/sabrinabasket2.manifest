@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3145971037
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a8475b12c826d89da8816e91a077ae4d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce00b96eb05100871f39954dc67941ec
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+Assets:
+- Assets/ExampleArtist/Prefabs/sabrinabasket2.prefab
+Dependencies:
+- C:/Users/Sherry/Desktop/Android-CreateAssetBundleU2018_3/Assets/AssetBundles/sabrinabasket
